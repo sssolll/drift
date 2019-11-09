@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e002</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e002</name>
+
+		<Placemark>
+			<name>01#출항:애월(涯月)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.322266, 33.466957, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표착경유:강화(江華)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.380936, 37.700129, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#표착경유:소안도(所安島)??</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.64929, 34.166899, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#표류:사서도(斜鼠島) 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.41324, 33.96825, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#지상표착:상산현(象山縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.93191, 29.202612, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:상산현(象山縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.869132, 29.478599, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:항주(杭州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.154716, 30.271101, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환경유:청하(淸河)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>117.825041, 39.329284, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#송환경유:웅현(雄縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.102563, 38.988619, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#송환경유:북경(北京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#송환:의주(義州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/ind2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.533878, 40.197497, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>12#귀환경유:경기감영(京畿監營)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.967207, 37.566706, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>13#귀환경유:영암(靈巖)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.682751, 34.854912, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>14#귀환:조천(朝天)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상로(金尙魯)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.634952, 33.541033, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e002 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.322266,33.466957,0
+			126.380936,37.700129,0
+			126.64929,34.166899,0
+			126.41324,33.96825,0
+			121.93191,29.202612,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e002 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			121.93191,29.202612,0
+			121.869132,29.478599,0
+			120.154716,30.271101,0
+			117.825041,39.329284,0
+			116.102563,38.988619,0
+			116.406566,39.923087,0
+			124.533878,40.197497,0
+			126.967207,37.566706,0
+			126.682751,34.854912,0
+			126.634952,33.541033,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

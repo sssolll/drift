@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e403</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e403</name>
+
+		<Placemark>
+			<name>01#출항:경주(慶州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김사상(金士尙)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.487159, 35.747548, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표착경유:부산(釜山)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김사상(金士尙)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.053489, 35.12686, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#표류:이견대(利見臺) 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김사상(金士尙)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.692874, 35.716134, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#지상표착:다케노코지마초[竹ノ子島町] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김사상(金士尙)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.876482, 33.948935, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:장기(長崎)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김사상(金士尙)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.867462, 32.745893, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:쓰시마[對馬島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김사상(金士尙)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.291508, 34.198963, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:사스나[佐須奈]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김사상(金士尙)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.39641, 34.63994, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e403 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			129.487159,35.747548,0
+			129.053489,35.12686,0
+			129.692874,35.716134,0
+			130.876482,33.948935,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e403 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			130.876482,33.948935,0
+			129.867462,32.745893,0
+			129.291508,34.198963,0
+			129.39641,34.63994,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

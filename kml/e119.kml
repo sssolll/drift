@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e119</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e119</name>
+
+		<Placemark>
+			<name>01#출항:울산(蔚山)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.373379, 35.519752, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표류:동래 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.258435, 35.123107, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:치쿠젠[筑前]  오시마[大島] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.431404, 33.90255, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:무나가타(宗像郡) 쓰야자키(津屋崎浦)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.460737, 33.790312, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:남도포(藍島浦)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.36495, 33.758836, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:당백포(唐白浦) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.232711, 33.643259, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:백도(柏島) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.970993, 33.54052, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환경유:호자도(呼子島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.895642, 33.548838, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#송환경유:장기(長崎)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.867462, 32.745893, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#송환경유:도마치(道馬峙) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.860654, 32.721652, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#송환경유:복전포(福田浦) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/me2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.834386, 32.702402, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>12#송환경유:히라도[平戶島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.553517, 33.367435, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>13#송환경유:일기도(一岐島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.690391, 33.75298, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>14#송환경유:쓰시마[對馬島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.29048, 34.198231, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>15#송환경유:쓰시마[對馬島] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.471331, 34.677484, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>16#송환경유:대풍소(待風所)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.384109, 34.643572, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>17#송환:천성진(天成鎭)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>128.816192, 35.029292, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>18#귀환경유:부산진(釜山鎭)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.053489, 35.12686, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>19#귀환경유:왜관(倭館)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.032926, 35.1003, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>20#귀환경유:통영(統營)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>128.422869, 34.838576, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>21#귀환경유:장흥(長興)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.984539, 34.533478, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>22#귀환경유:해남 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.73031, 34.434178, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>23#귀환:대둔사</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/풍계_현정(楓溪_賢正)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.616691, 34.477331, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e119 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			129.373379,35.519752,0
+			129.258435,35.123107,0
+			130.431404,33.90255,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e119 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			130.431404,33.90255,0
+			130.460737,33.790312,0
+			130.36495,33.758836,0
+			130.232711,33.643259,0
+			129.970993,33.54052,0
+			129.895642,33.548838,0
+			129.867462,32.745893,0
+			129.860654,32.721652,0
+			129.834386,32.702402,0
+			129.553517,33.367435,0
+			129.690391,33.75298,0
+			129.29048,34.198231,0
+			129.471331,34.677484,0
+			129.384109,34.643572,0
+			128.816192,35.029292,0
+			129.053489,35.12686,0
+			129.032926,35.1003,0
+			128.422869,34.838576,0
+			126.984539,34.533478,0
+			126.73031,34.434178,0
+			126.616691,34.477331,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

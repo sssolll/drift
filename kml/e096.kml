@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e096</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e096</name>
+
+		<Placemark>
+			<name>01#출항:흥양(興陽)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/모주복(毛注福)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>127.134079, 34.572977, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표류:영해 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/모주복(毛注福)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.102963, 36.171329, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:오키노시마(隠岐の島) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/모주복(毛注福)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>133.186868, 36.242812, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:장기(長崎)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/모주복(毛注福)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.867462, 32.745893, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:쓰시마[對馬島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/모주복(毛注福)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.29048, 34.198231, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환:동래(東萊)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/모주복(毛注福)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.086338, 35.203394, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e096 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			127.134079,34.572977,0
+			130.102963,36.171329,0
+			133.186868,36.242812,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e096 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			133.186868,36.242812,0
+			129.867462,32.745893,0
+			129.29048,34.198231,0
+			129.086338,35.203394,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

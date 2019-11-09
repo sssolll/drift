@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e102</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e102</name>
+
+		<Placemark>
+			<name>01#거주지(출항추정):진도(珍島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김서(金瑞)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.134494, 34.373856, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:유구(琉球)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김서(金瑞)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>127.802973, 26.336945, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:복건성(福建省)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김서(金瑞)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.300806, 26.054189, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:북경(北京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김서(金瑞)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:옥하관(玉河館)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김서(金瑞)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.404167, 39.901618, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:북경(北京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김서(金瑞)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환:압록강(鴨綠江)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김서(金瑞)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.299696, 39.878385, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e102 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.134494,34.373856,0
+			127.802973,26.336945,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e102 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			127.802973,26.336945,0
+			119.300806,26.054189,0
+			116.406566,39.923087,0
+			116.404167,39.901618,0
+			116.406566,39.923087,0
+			124.299696,39.878385,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

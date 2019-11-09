@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e050</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e050</name>
+
+		<Placemark>
+			<name>01#출항:제주(濟州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.904067, 33.404419, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#선상표착:대청국 상선</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>122.918454, 31.606933, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#송환경유:숭명현(崇明縣) 소송진(蘇松鎭) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.85878, 31.445888, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:숭명현(崇明縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.396504, 31.62403, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:송도(松道) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.396504, 31.62403, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:천진교(天津橋) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>117.20069, 39.084095, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:북경(北京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환:의주(義州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.533878, 40.197497, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#귀환경유:경기감영(京畿監營)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.967207, 37.566706, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#귀환경유:강진(康津) 도회관(都會官)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.709486, 34.402149, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#귀환경유:남포여점(南浦旅店)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/m2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.770075, 34.622747, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>12#귀환:조천(朝天)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/강여홍(康如弘)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.634952, 33.541033, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e050 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.904067,33.404419,0
+			122.918454,31.606933,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e050 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			122.918454,31.606933,0
+			121.85878,31.445888,0
+			121.396504,31.62403,0
+			121.396504,31.62403,0
+			117.20069,39.084095,0
+			116.406566,39.923087,0
+			124.533878,40.197497,0
+			126.967207,37.566706,0
+			126.709486,34.402149,0
+			126.770075,34.622747,0
+			126.634952,33.541033,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

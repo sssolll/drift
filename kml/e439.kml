@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e439</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e439</name>
+
+		<Placemark>
+			<name>01#출항:양산(梁山)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김순이(金順伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.012272, 35.291755, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표류:절영도(絶影島) 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김순이(金順伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.116622, 35.019755, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:니시도마리우라[西泊浦]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김순이(金順伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.479131, 34.656477, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:쓰시마[對馬島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김순이(金順伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.291508, 34.198963, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:와니우라[鰐浦]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김순이(金順伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.440549, 34.693008, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e439 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			129.012272,35.291755,0
+			129.116622,35.019755,0
+			129.479131,34.656477,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e439 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			129.479131,34.656477,0
+			129.291508,34.198963,0
+			129.440549,34.693008,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

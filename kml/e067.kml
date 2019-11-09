@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e067</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e067</name>
+
+		<Placemark>
+			<name>01#출항:제주(濟州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/장회이(張廻伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.565708, 33.525834, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#지상표착:오도 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/장회이(張廻伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.000386, 32.965458, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#송환경유:미도(彌島,旀島) 오도 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/장회이(張廻伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.051885, 33.02823, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:오지카시마[小値賀島] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/장회이(張廻伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.059129, 33.187988, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:우쿠시마[宇久島] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/장회이(張廻伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.093648, 33.259161, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:화가대도(化可大島) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/장회이(張廻伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.639154, 33.738482, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:일기도(一岐島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/장회이(張廻伊)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.690391, 33.75298, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e067 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.565708,33.525834,0
+			129.000386,32.965458,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e067 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			129.000386,32.965458,0
+			129.051885,33.02823,0
+			129.059129,33.187988,0
+			129.093648,33.259161,0
+			129.639154,33.738482,0
+			129.690391,33.75298,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

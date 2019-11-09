@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e066</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e066</name>
+
+		<Placemark>
+			<name>01#출항:별도(別刀)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.564735, 33.524514, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표착경유:초란도(草蘭島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.183128, 34.893259, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:임해현(▣海縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.667912, 28.71634, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:해문위(海門衛)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.448186, 28.65309, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:건도소(健跳所)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.600168, 29.030294, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:영해(寧海)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.429106, 29.289053, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:영파(寧波)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.541716, 29.869486, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환경유:자계(慈溪)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.257951, 30.172126, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#송환경유:여요(餘姚)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.154478, 30.036254, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#송환경유:소흥(紹興)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.585935, 29.995824, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#송환경유:서흥역(西興驛) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/me2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.228965, 30.191733, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>12#송환경유:항주(杭州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.154716, 30.271101, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>13#송환경유:숭덕(崇德)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.421745, 30.524477, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>14#송환경유:가흥(嘉興)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.755845, 30.754427, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>15#송환경유:오강(吳江)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.645011, 31.138974, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>16#송환경유:소주(蘇州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.578252, 31.320098, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>17#송환경유:상주(常州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.973418, 31.811266, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>18#송환경유:진강(鎭江)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.420882, 32.188879, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>19#송환경유:양자강(楊子江)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.137521, 31.942136, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>20#송환경유:양주(揚州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.409635, 32.395351, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>21#송환경유:회안(淮安)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.013317, 33.614451, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>22#송환경유:서주(徐州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>117.279746, 34.21012, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>23#송환경유:연주(兗州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.782583, 35.552343, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>24#송환경유:제녕(濟寧)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.588547, 35.414811, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>25#송환경유:동창부(東昌府) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>115.98802, 36.431837, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>26#송환경유:덕주(德州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.356194, 37.432898, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>27#송환경유:창주(滄州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.837854, 38.302089, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>28#송환경유:정해(靜海)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.973809, 38.946887, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>29#송환경유:천진(天津)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>117.200721, 39.08358, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>30#송환경유:북경(北京)‏‎</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>31#송환경유:옥전(玉田)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>117.74182, 39.90232, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>32#송환경유:영평부성(永平府城)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>118.862772, 39.881105, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>33#송환경유:석하(石河)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.569291, 40.124889, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>34#송환경유:산해관(山海關)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.773912, 39.978771, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>35#송환경유:요동(遼東)‏‎</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.372695, 40.905154, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>36#송환:의주(義州)‏‎</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.533878, 40.197497, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>37#귀환:한양(漢陽)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/최부(崔溥)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.975512, 37.569042, 0</coordinates></Point>
+		</Placemark>
+
+
+
+		<Placemark>
+			<name>e066 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.564735,33.524514,0
+			126.183128,34.893259,0
+			121.667912,28.71634,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e066 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			121.667912,28.71634,0
+			121.448186,28.65309,0
+			121.600168,29.030294,0
+			121.429106,29.289053,0
+			121.541716,29.869486,0
+			121.257951,30.172126,0
+			121.154478,30.036254,0
+			120.585935,29.995824,0
+			120.228965,30.191733,0
+			120.154716,30.271101,0
+			120.421745,30.524477,0
+			120.755845,30.754427,0
+			120.645011,31.138974,0
+			120.578252,31.320098,0
+			119.973418,31.811266,0
+			119.420882,32.188879,0
+			120.137521,31.942136,0
+			119.409635,32.395351,0
+			119.013317,33.614451,0
+			117.279746,34.21012,0
+			116.782583,35.552343,0
+			116.588547,35.414811,0
+			115.98802,36.431837,0
+			116.356194,37.432898,0
+			116.837854,38.302089,0
+			116.973809,38.946887,0
+			117.200721,39.08358,0
+			116.406566,39.923087,0
+			117.74182,39.90232,0
+			118.862772,39.881105,0
+			119.569291,40.124889,0
+			119.773912,39.978771,0
+			121.372695,40.905154,0
+			124.533878,40.197497,0
+			126.975512,37.569042,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

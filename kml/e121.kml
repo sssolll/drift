@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e121</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e121</name>
+
+		<Placemark>
+			<name>01#출항:울산(蔚山)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.373379, 35.519752, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#지상표착:레분도(礼文島, 利尻島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>141.037083, 45.299442, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#송환경유:소야[宗谷]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>141.740227, 45.400087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:하보로[羽幌] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>141.704023, 44.374128, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:마쓰마에쵸[松前町]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>140.097752, 41.440065, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:진경(津輕)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>140.472695, 41.18064, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:강호(江戶)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>139.676332, 35.702872, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환경유:대판성(大坂城)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>135.497276, 34.691103, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#송환경유:병고보(兵庫堡)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>135.167025, 34.678454, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#송환경유:하관(下關)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.923254, 33.945588, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#송환경유:적간관(赤間關)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawi2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.942817, 33.959091, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>12#송환경유:지노시마[地島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.492302, 33.910635, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>13#송환경유:가쓰모토초[勝本町] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.693938, 33.851138, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>14#송환경유:일기도(一岐島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.690391, 33.75298, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>17#송환경유:쓰시마[對馬島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.29048, 34.198231, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>18#송환:부산진(釜山鎭)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이지항_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.053489, 35.12686, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e121 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			129.373379,35.519752,0
+			141.037083,45.299442,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e121 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			141.037083,45.299442,0
+			141.740227,45.400087,0
+			141.704023,44.374128,0
+			140.097752,41.440065,0
+			140.472695,41.18064,0
+			139.676332,35.702872,0
+			135.497276,34.691103,0
+			135.167025,34.678454,0
+			130.923254,33.945588,0
+			130.942817,33.959091,0
+			130.492302,33.910635,0
+			129.693938,33.851138,0
+			129.690391,33.75298,0
+			129.29048,34.198231,0
+			129.053489,35.12686,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

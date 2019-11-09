@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e011</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e011</name>
+
+		<Placemark>
+			<name>01#출항:협재(挾才)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.239702, 33.394532, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#지상표착:복녕(福寧)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.113634, 26.881932, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#송환경유:평담현(平潭縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.789548, 25.495186, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:해구관(海口館)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.465399, 25.697277, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:복건성(福建省)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.296384, 26.07703, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:연주부(燕州府)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.782583, 35.552343, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:북경(北京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환:의주(義州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.533878, 40.197497, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#귀환경유:경기감영(京畿監營)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.967207, 37.566706, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#귀환경유:영암(靈巖) 도회관(都會官)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/고운학(高雲鶴)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.621002, 34.398563, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#귀환:화북(禾北)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.565708, 33.525834, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e011 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.239702,33.394532,0
+			120.113634,26.881932,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e011 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			120.113634,26.881932,0
+			119.789548,25.495186,0
+			119.465399,25.697277,0
+			119.296384,26.07703,0
+			116.782583,35.552343,0
+			116.406566,39.923087,0
+			124.533878,40.197497,0
+			126.967207,37.566706,0
+			126.621002,34.398563,0
+			126.565708,33.525834,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

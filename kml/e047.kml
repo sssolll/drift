@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e047</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e047</name>
+
+		<Placemark>
+			<name>01#출항:제주(濟州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.239702, 33.394532, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#지상표착:구메지마[久米島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.753638, 26.339302, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#송환경유:오키나와[琉球] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>127.662441, 26.219221, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:복건성(福建省)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.296384, 26.07703, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:북경(北京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환:의주(義州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.533878, 40.197497, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#귀환경유:경기감영(京畿監營)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.967207, 37.566706, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#귀환경유:영암(靈巖) 도회관(都會官)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.621002, 34.398563, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#귀환경유:소안도(所安島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.64929, 34.166899, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#귀환:김녕(金寧)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/이대유(李大有)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.736231, 33.558604, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e047 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.239702,33.394532,0
+			126.753638,26.339302,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e047 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			126.753638,26.339302,0
+			127.662441,26.219221,0
+			119.296384,26.07703,0
+			116.406566,39.923087,0
+			124.533878,40.197497,0
+			126.967207,37.566706,0
+			126.621002,34.398563,0
+			126.64929,34.166899,0
+			126.736231,33.558604,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

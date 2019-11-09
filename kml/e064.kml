@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e064</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e064</name>
+
+		<Placemark>
+			<name>01#출항:제주(濟州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.565708, 33.525834, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표류:추자도 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.379865, 33.900732, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:요나구니(与那国) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>122.983646, 24.468422, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:이리오모테지마[西表島] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>123.760772, 24.385759, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:하테루마지마[波照間島] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>123.767467, 24.066959, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:발내이도(勃乃伊島) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>123.990215, 24.327604, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:구로시마[黑島] 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.001459, 24.253342, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환경유:다라마지마[多良間島]추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.678802, 24.647391, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#송환경유:이라부지마[伊良部島]추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>125.180103, 24.833573, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#송환경유:미야코지마[宮古島]추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>125.285847, 24.751913, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#송환경유:유구(琉球)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>127.69539, 26.213271, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>12#송환경유:사츠마[薩摩]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.544108, 31.565285, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>13#송환경유:빙골(氷骨) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.544108, 31.565285, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>14#송환경유:하카다[博多]추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>130.442605, 33.579732, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>15#송환경유:일기도(一岐島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.690391, 33.75298, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>16#송환경유:쓰시마[對馬島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.29048, 34.198231, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>17#송환:염포(鹽浦)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김비의(金非衣)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.398731, 35.526918, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e064 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			126.565708,33.525834,0
+			126.379865,33.900732,0
+			122.983646,24.468422,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e064 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			122.983646,24.468422,0
+			123.760772,24.385759,0
+			123.767467,24.066959,0
+			123.990215,24.327604,0
+			124.001459,24.253342,0
+			124.678802,24.647391,0
+			125.180103,24.833573,0
+			125.285847,24.751913,0
+			127.69539,26.213271,0
+			130.544108,31.565285,0
+			130.544108,31.565285,0
+			130.442605,33.579732,0
+			129.690391,33.75298,0
+			129.29048,34.198231,0
+			129.398731,35.526918,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

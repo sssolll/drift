@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e364</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e364</name>
+
+		<Placemark>
+			<name>01#출항:장기(長崎)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상이(金尙伊)_외_8명_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.524054, 35.897149, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표류:장기(長崎) 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상이(金尙伊)_외_8명_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.71742, 35.93122, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:이와미[石見]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상이(金尙伊)_외_8명_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>131.85009, 34.713442, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:세토우라[瀨戶浦]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상이(金尙伊)_외_8명_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.758984, 33.812075, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:장기(長崎)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/김상이(金尙伊)_외_8명_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.867462, 32.745893, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e364 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			129.524054,35.897149,0
+			129.71742,35.93122,0
+			131.85009,34.713442,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e364 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			131.85009,34.713442,0
+			129.758984,33.812075,0
+			129.867462,32.745893,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

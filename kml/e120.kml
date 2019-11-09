@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e120</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e120</name>
+
+		<Placemark>
+			<name>01#출항:우이도(牛耳島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>125.844486, 34.613662, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표류:흑산도 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>125.348656, 34.530776	, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#지상표착:대도(大島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.496194, 28.388534, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#송환경유:양관촌(羊寬村) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.695199, 28.490788, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:우켄촌[于禽村]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.295763, 28.280116, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>06#송환경유:덕지도(德之島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.016467, 27.725605, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>07#송환경유:오키노에라부[沖永良部島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>128.622087, 27.363808, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>08#송환경유:입사도(立沙島) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>128.414402, 27.049344, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>09#송환경유:백촌(白村)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>127.676034, 26.213484, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>10#송환경유:마치산도(馬齒山島) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>127.311404, 26.138194, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>11#송환경유:필리핀 salomague 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/2"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.415044, 17.781366, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>12#송환경유:필리핀 Vigan 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>120.387578, 17.570131, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>13#송환경유:광동(廣東) 오문(澳門)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>113.554668, 22.204802, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>14#송환경유:향산현(香山縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>113.981679, 22.54553, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>15#송환경유:광동부(廣東府)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>113.266132, 23.127515, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>16#송환경유:오관(澳關) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>113.087024, 23.229127, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>17#송환경유:남웅부(南雄府) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>114.312827, 25.112283, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>18#송환경유:매령(梅嶺) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>114.312827, 25.112283, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>19#송환경유:남안부(南安府) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>118.393559, 24.955859, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>20#송환경유:강주부(康州府) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>121.434644, 31.156167, 0</coordinates></Point>
+		</Placemark>
+
+		<!--<Placemark>
+			<name>21#송환경유:</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>NULL, NULL, 0</coordinates></Point>
+		</Placemark>-->
+
+		<Placemark>
+			<name>22#송환경유:남경(南京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>118.791389, 32.060755, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>23#송환경유:상원현(上元縣) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>118.91062, 31.892078, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>24#송환경유:무호현(蕪湖縣)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>118.444388, 31.346544, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>25#송환경유:양주부(楊州府)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.410657, 32.388034, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>26#송환경유:삼보(三甫) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>118.895099, 33.348056, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>27#송환경유:회음관(淮陰館) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>119.059296, 33.604965, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>28#송환경유:산동계(山東界) 추정</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>118.334796, 35.602912, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>29#송환경유:북경(北京)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>116.406566, 39.923087, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>30#송환경유:책문(柵門)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.091582, 40.388669, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>31#송환:의주(義州)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>124.533878, 40.197497, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>32#귀환경유:한양(漢陽)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.975512, 37.569042, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>33#귀환경유:다경포(多慶浦)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>126.439875, 35.359786, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>34#귀환:우이도(牛耳島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/문순득(文淳得)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>125.844486, 34.613662, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e120 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+        125.844486,34.613662,0
+        125.348656,34.530776,0
+        129.496194,28.388534,0
+      </coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e120 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			129.496194,28.388534,0
+			129.695199,28.490788,0
+			129.295763,28.280116,0
+			129.016467,27.725605,0
+			128.622087,27.363808,0
+			128.414402,27.049344,0
+			127.676034,26.213484,0
+			127.311404,26.138194,0
+			120.415044,17.781366,0
+			120.387578,17.570131,0
+			113.554668,22.204802,0
+			113.981679,22.54553,0
+			113.266132,23.127515,0
+			113.087024,23.229127,0
+			114.312827,25.112283,0
+			114.312827,25.112283,0
+			118.393559,24.955859,0
+			121.434644,31.156167,0
+			118.791389,32.060755,0
+			118.91062,31.892078,0
+			118.444388,31.346544,0
+			119.410657,32.388034,0
+			118.895099,33.348056,0
+			119.059296,33.604965,0
+			118.334796,35.602912,0
+			116.406566,39.923087,0
+			124.091582,40.388669,0
+			124.533878,40.197497,0
+			126.975512,37.569042,0
+			126.439875,35.359786,0
+			125.844486,34.613662,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<kml xmlns="http://earth.google.com/kml/2.2"> 
+
+	<Document>
+
+	<name>KML for Drift Trace: e249</name>
+
+	<Style id="POI">
+		<IconStyle>
+			<scale>2.0</scale>
+			<Icon><href>http://digerati.aks.ac.kr/VR/style/boat2.png</href></Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<textColor>ff007f00</textColor><bgColor>ffffffff</bgColor><displayMode>default</displayMode>
+		</BalloonStyle>
+	</Style>
+
+	<Style id="PATH1">
+		<LineStyle><color>ff7f7fff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Style id="PATH2">
+		<LineStyle><color>ffffffff</color><width>5</width></LineStyle>
+	</Style>
+
+	<Folder>
+
+		<name>e249</name>
+
+		<Placemark>
+			<name>01#거주지(출항추정):한산도(閑山島)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/복립(卜立)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>128.483913, 34.78171, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>01#거주지(출항추정):통영(統營)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/복립(卜立)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>128.422869, 34.838576, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>02#표착경유:영일(迎日)</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/복립(卜立)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.397545, 36.012361, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>03#표류:협서리 앞바다</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/복립(卜立)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>127.529083, 34.894177, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>04#지상표착:도미가우라[富浦]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/복립(卜立)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.480984, 34.628835, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>05#송환경유:쓰시마[對馬島]</name>
+			<description><![CDATA[<a href="http://www.digerati.kr/mediawiki/index.php/복립(卜立)_일행_표류사건"/><img src="http://digerati.aks.ac.kr/VR/style/text.png"/></a><br/>]]></description>
+			<styleUrl>#POI</styleUrl>
+			<Point><coordinates>129.291508, 34.198963, 0</coordinates></Point>
+		</Placemark>
+
+		<Placemark>
+			<name>e249 Path</name>
+			<styleUrl>#PATH1</styleUrl>
+			<LineString>
+			<coordinates>
+			128.483913,34.78171,0
+			128.422869,34.838576,0
+			129.397545,36.012361,0
+			127.529083,34.894177,0
+			129.480984,34.628835,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+		<Placemark>
+			<name>e249 Path</name>
+			<styleUrl>#PATH2</styleUrl>
+			<LineString>
+			<coordinates>
+			129.480984,34.628835,0
+			129.291508,34.198963,0
+			</coordinates>
+			</LineString> 
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>
